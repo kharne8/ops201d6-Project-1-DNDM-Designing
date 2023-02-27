@@ -18,7 +18,7 @@ What are the key strengths of each person on the team?
 - Marco will take lead with all coding and scripting, we will assist in whatever he can’t accomplish using Dylan’s ChatGPT skills. Deontae will fine-tune our SOP with input from the group while utilizing Nick's google research skills. 
 ### In which professional competencies do you each want to develop greater strength?
 - Nicholas and Deontae want to become proficient coders.
-- Marco
+- Marco wants to get better at professional communication and better technical writring.
 - Dylan wants to develop an overall technical proficiency.
 
 ### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
@@ -115,8 +115,7 @@ NOTE: While researching and experimentation is always encouraged, writing and/or
 
 ## Presentation Deck
 
-Make a single copy of the Presentation Deck Template. Share your copy will all team members, so everyone is working from the same file.
-Link to the shared doc in your project plan.
+- Check out [Team Awesome Presentation Deck](https://docs.google.com/presentation/d/1mmS3iLv_nZDtye8p0x4w83COf2qh0HYrBYZSCriivhA/edit).
 
 ## Schedule your practice session
 
