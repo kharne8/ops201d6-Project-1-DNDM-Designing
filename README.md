@@ -19,7 +19,7 @@ What are the key strengths of each person on the team?
 ### In which professional competencies do you each want to develop greater strength?
 - Nicholas and Deontae want to become proficient coders.
 - Marco
-- Dylan
+- Dylan wants to develop an overall technical proficiency.
 
 ### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 - We will work as a team on all aspects of the lab, but each of us will have to focus on our individual responsibilities. We will start our day with a friendly discussion about the tasks ahead and get into working on our project after the discussion. 
