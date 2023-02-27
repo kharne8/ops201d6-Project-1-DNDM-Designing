@@ -1,4 +1,4 @@
-# Project Title
+# Trek's Expansion
 
 A brief description of what this project does and who it's for
 
@@ -115,7 +115,7 @@ NOTE: While researching and experimentation is always encouraged, writing and/or
 
 ## Presentation Deck
 
-- Check out [Team Awesome Presentation Deck](https://docs.google.com/presentation/d/1mmS3iLv_nZDtye8p0x4w83COf2qh0HYrBYZSCriivhA/edit).
+- Check out [DNDM Designing Presentation Deck](https://docs.google.com/presentation/d/1mmS3iLv_nZDtye8p0x4w83COf2qh0HYrBYZSCriivhA/edit).
 
 ## Schedule your practice session
 
